@@ -1,5 +1,4 @@
 
-
 import java.util.ArrayList;
 
 
@@ -17,8 +16,8 @@ public  class Measure {
 		
 	}
 	
-	public Measure(String firstLine){
-		this.addLine(firstLine);
+	public Measure(String Line){
+		this.addLine(Line);
 	}
 
 	
